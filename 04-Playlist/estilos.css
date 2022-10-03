@@ -1,5 +1,5 @@
 hr{
-    color: #B7C4CF;
+    color: #c0ddf5;
 }
 h1{
     color: #A7D2CB;
@@ -12,4 +12,7 @@ body{
 }
 td{
     color: #D2DAFF;
+}
+p{
+    color: aquamarine;
 }
