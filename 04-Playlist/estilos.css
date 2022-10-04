@@ -1,18 +1,57 @@
-hr{
-    color: #c0ddf5;
+hr {
+    color: #f30000;
 }
-h1{
-    color: #A7D2CB;
+
+h1 {
+    color: #f17f77;
 }
-th{
-    color: #C5D8A4;
+
+th {
+    color: #000000
 }
-body{
+
+body {
     background-color: black;
 }
-td{
-    color: #D2DAFF;
+
+td {
+    color: #b86262;
+}
+
+p {
+    color: rgb(224, 18, 80);
+}
+
+h2 {
+    color: #462b09;
+}
+
+body {
+    background-image: url(/assets/imagenes/fondo-5.webp);
+    text-align: center;
+}
+table {
+    background-color: #F7E9D7;
+    width: 45%;
+    border: 5px solid maroon;
+    border-collapse: collapse;
+}
+h1{
+    background-color: #F7E9D7;
+    border: 3px solid maroon;
+    text-align: center;
 }
 p{
-    color: aquamarine;
+    color: rgb(117, 9, 36);
+}
+td{
+    font-size: 1.3em;
+    border: 3px solid rgba(128, 0, 0, 0.39);
+}
+footer{
+    background-color: #f17f77;
+    text-align: center;
+}
+main{
+    text-align: center;
 }
