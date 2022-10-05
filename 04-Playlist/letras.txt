@@ -93,9 +93,11 @@ y huir sin dejar rastro.
 Colores
 #FFEEEE rosa claro
 #C5D8A4 verdecito
-#F7E9D7
+#F7E9D7 beige
 #534340 marron
 #AEBDCA blanco
-#D2DAFF
-#181818
-#B7C4CF
+#D2DAFF lila
+#181818 negro
+#B7C4CF gris celeston
+
+<p> <a href="/assets/imagenes/inodoro.jpeg">Bathroom 🚹​🚺​</a> </p>

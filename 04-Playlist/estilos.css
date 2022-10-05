@@ -10,9 +10,6 @@ th {
     color: #000000
 }
 
-body {
-    background-color: black;
-}
 
 td {
     color: #b86262;
@@ -26,7 +23,7 @@ h2 {
     color: #462b09;
 }
 
-body {
+#index{
     background-image: url(/assets/imagenes/fondo-5.webp);
     text-align: center;
 }
@@ -50,8 +47,55 @@ td{
 }
 footer{
     background-color: #f17f77;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 main{
     text-align: center;
 }
+#fondo1{
+    background-color: #D2DAFF;
+}
+#fondo2{
+    background-color: #DFF6FF;
+}
+#fondo3{
+    background-color: #ded2ff;
+}
+#fondo4{
+    background-color: #DAEAF1;
+}
+#fondo5{
+    background-color: #B7D3DF;
+}
+#fondo6{
+    background-color: #F7ECDE
+}
+#fondo7{
+    background-color: #ffddd2;
+}
+#fondo8{
+    background-color: #feffd2;
+}
+#fondo9{
+    background-color: #e8ffd2;
+}
+#fondo10{
+    background-color: #d2ffd2;
+}
+#fondo11{
+    background-color: #d2ffea;
+}
+#fondo12{
+    background-color: #d2feff;
+}
+h3{
+    text-align: center;
+}
+#index main{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
